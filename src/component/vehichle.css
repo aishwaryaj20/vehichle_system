@@ -1,0 +1,60 @@
+.flex-container {
+    display: flex;
+    background: linear-gradient(to bottom, #66ccff 0%, #ccffff 100%);
+    float: left;
+   
+    width: 446px;
+  }
+  
+
+  .flex-container > p {
+    background: linear-gradient(to bottom, #ffffff 0%, #6666ff 100%);
+    margin: 10px;
+    margin-left: 112px;
+    padding: 20px;
+   font-size: 16px;
+   text-align: initial;
+    width: 213px;
+    height: 200px;
+    float: left;
+  }
+
+  .flex-containerr {
+    display: flex;
+    background: linear-gradient(to bottom, #66ccff 0%, #ccffff 100%);
+    float: left;
+   
+    width: 446px;
+  }
+  
+select {
+  width: 100px;
+  height: 50px;
+
+}
+  .flex-containerr > p {
+    background: linear-gradient(to bottom, #ffffff 0%, #6666ff 100%);
+    margin: 10px;
+    margin-left: 112px;
+    padding: 20px;
+   font-size: 16px;
+   text-align: initial;
+    width: 213px;
+    height: 200px;
+    float: left;
+  }
+  button.bottom {
+    width: 67px;
+    height: 50px;
+    margin: 10px;
+    background: linear-gradient(to bottom, #66ccff 0%, #006600 100%);
+  }
+  /* .bottom {
+      margin-top: 22%;
+  }
+
+  .alignbotton{
+    margin-left: 3%;
+    text-align: start;
+    margin-right: 1%;
+  } */

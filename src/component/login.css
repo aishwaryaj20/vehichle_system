@@ -1,0 +1,37 @@
+.main{
+    margin-top: 100px;
+    width: 400px;
+    height: 300px;
+    border: 1px solid black;
+    background: linear-gradient(to bottom, #66ccff 0%, #3366ff 100%);
+  margin-left: 36%;
+}
+
+input {
+    width: 200px;
+    height: 50px;
+    border: 1px solid black;
+    margin-left: 16px;
+    margin-top: 11px;
+    background: white;
+
+}
+a {
+    margin: 11px;
+    color: white;
+}
+.submitbtn {
+    width: 70px;
+    background-color: rgba(34, 197, 197, 0.24);
+    height: 50px;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    margin: 13px;
+    background: linear-gradient(to bottom, #ffffff 0%, #9933ff 100%);
+    color: white;
+    font-family: Helvetica;
+    font-weight: 300;
+}

@@ -1,0 +1,126 @@
+{
+  "login": [
+    {
+      "status": false,
+      "email": "rtr",
+      "password": "rr",
+      "id": 1
+    },
+    {
+      "status": false,
+      "email": "rr",
+      "password": "rr",
+      "id": 2
+    },
+    {
+      "status": false,
+      "email": "aishwarya_fw11_001@masai.school",
+      "password": "kutamayur",
+      "id": 3
+    },
+    {
+      "status": false,
+      "email": "aishwarya_fw11_001@masai.school",
+      "password": "rr",
+      "id": 4
+    },
+    {
+      "status": false,
+      "email": "8308877124",
+      "password": "ds",
+      "id": 5
+    },
+    {
+      "status": false,
+      "email": "8308877124",
+      "password": "ds",
+      "id": 6
+    },
+    {
+      "status": false,
+      "email": "aishwarya_fw11_001@masai.school",
+      "password": "rr",
+      "id": 7
+    },
+    {
+      "status": false,
+      "email": "aishwarya_fw11_001@masai.school",
+      "password": "rr",
+      "id": 8
+    },
+    {
+      "status": false,
+      "email": "aishwarya_fw11_001@masai.school",
+      "password": "tytryryy",
+      "id": 9
+    },
+    {
+      "status": false,
+      "email": "dd",
+      "password": "erere",
+      "id": 10
+    },
+    {
+      "status": false,
+      "email": "bdf",
+      "password": "fddf",
+      "id": 11
+    },
+    {
+      "status": false,
+      "email": "aishwarya_fw11_001@masai.school",
+      "password": "ddfds",
+      "id": 12
+    },
+    {
+      "status": false,
+      "email": "aishwarya_fw11_001@masai.school",
+      "password": "Ash@123",
+      "id": 13
+    }
+  ],
+  "vehichle": [
+    {
+      "status": false,
+      "vehichleName": "Alto",
+      "vehichleModel": "Axi",
+      "id": 1,
+      "vehichlerides": 3
+    },
+    {
+      "status": false,
+      "vehichleName": "Swift",
+      "vehichleModel": "Lxi",
+      "id": 3,
+      "vehichlerides": 4
+    },
+    {
+      "status": false,
+      "vehichleName": "Baleno",
+      "vehichleModel": "Lxi",
+      "id": 4,
+      "vehichlerides": 5
+    },
+    {
+      "status": false,
+      "vehichleName": "Nexon",
+      "vehichleModel": "Xxi",
+      "id": 5,
+      "vehichlerides": 1
+    },
+    {
+      "status": false,
+      "vehichleName": "Zen",
+      "vehichleModel": "Xvi",
+      "id": 6,
+      "vehichlerides": 2
+    },
+    {
+      "status": false,
+      "vehichleName": "Baleno",
+      "vehichleModel": "Lxi",
+      "id": 4,
+      "vehichlerides": 5
+    }
+  ]
+}
